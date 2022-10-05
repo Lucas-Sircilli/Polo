@@ -1,0 +1,1201 @@
+[18-Feb-2020 13:49:53 UTC] PHP Parse error:  syntax error, unexpected '$servidor_ftps' (T_VARIABLE), expecting ')' in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 5
+[18-Feb-2020 13:50:10 UTC] PHP Warning:  ftp_ssl_connect(): php_network_getaddresses: getaddrinfo failed: Este host n�o � conhecido.  in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 5
+[18-Feb-2020 13:50:10 UTC] PHP Stack trace:
+[18-Feb-2020 13:50:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 13:50:10 UTC] PHP   2. ftp_ssl_connect() C:\inetpub\wwwroot\MRS\TesterFTPs.php:5
+[18-Feb-2020 13:50:34 UTC] PHP Warning:  ftp_ssl_connect(): php_network_getaddresses: getaddrinfo failed: Este host n�o � conhecido.  in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 5
+[18-Feb-2020 13:50:34 UTC] PHP Stack trace:
+[18-Feb-2020 13:50:34 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 13:50:34 UTC] PHP   2. ftp_ssl_connect() C:\inetpub\wwwroot\MRS\TesterFTPs.php:5
+[18-Feb-2020 13:51:04 UTC] PHP Warning:  ftp_ssl_connect(): php_network_getaddresses: getaddrinfo failed: Este host n�o � conhecido.  in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 5
+[18-Feb-2020 13:51:04 UTC] PHP Stack trace:
+[18-Feb-2020 13:51:04 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 13:51:04 UTC] PHP   2. ftp_ssl_connect() C:\inetpub\wwwroot\MRS\TesterFTPs.php:5
+[18-Feb-2020 13:52:59 UTC] PHP Notice:  Undefined index: pasta_ftps in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 5
+[18-Feb-2020 13:52:59 UTC] PHP Stack trace:
+[18-Feb-2020 13:52:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:37 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 13:54:37 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 13:54:37 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:40 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 13:54:40 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 13:54:40 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 13:54:45 UTC] PHP Warning:  ftp_login(): User cannot log in. in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 9
+[18-Feb-2020 13:54:45 UTC] PHP Stack trace:
+[18-Feb-2020 13:54:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 13:54:45 UTC] PHP   2. ftp_login() C:\inetpub\wwwroot\MRS\TesterFTPs.php:9
+[18-Feb-2020 13:56:19 UTC] PHP Warning:  ftp_close(): SSL_read on shutdown: No such file or directory (2) in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 17
+[18-Feb-2020 13:56:19 UTC] PHP Stack trace:
+[18-Feb-2020 13:56:19 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 13:56:19 UTC] PHP   2. ftp_close() C:\inetpub\wwwroot\MRS\TesterFTPs.php:17
+[18-Feb-2020 14:02:48 UTC] PHP Notice:  Undefined variable: senha_ftps in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 8
+[18-Feb-2020 14:02:48 UTC] PHP Stack trace:
+[18-Feb-2020 14:02:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 14:02:49 UTC] PHP Warning:  ftp_login(): User cannot log in. in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 8
+[18-Feb-2020 14:02:49 UTC] PHP Stack trace:
+[18-Feb-2020 14:02:49 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 14:02:49 UTC] PHP   2. ftp_login() C:\inetpub\wwwroot\MRS\TesterFTPs.php:8
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:54 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 14:03:54 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 14:03:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:03:59 UTC] PHP Warning:  ftp_login(): User cannot log in. in C:\inetpub\wwwroot\MRS\TesterFTPs.php on line 9
+[18-Feb-2020 14:03:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:03:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\TesterFTPs.php:0
+[18-Feb-2020 14:03:59 UTC] PHP   2. ftp_login() C:\inetpub\wwwroot\MRS\TesterFTPs.php:9
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:09 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 14:04:09 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 14:04:09 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:09 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:54 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 14:04:54 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 14:04:54 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:54 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:04:59 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 14:04:59 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 14:04:59 UTC] PHP Stack trace:
+[18-Feb-2020 14:04:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 4 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 5 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 18
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 20
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:11 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:20
+[18-Feb-2020 14:10:11 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 22
+[18-Feb-2020 14:10:11 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 14:10:25 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\log_execucao.php on line 6
+[18-Feb-2020 14:10:25 UTC] PHP Stack trace:
+[18-Feb-2020 14:10:25 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\log_execucao.php:0
+[18-Feb-2020 14:10:25 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\log_execucao.php:6
+[18-Feb-2020 20:15:43 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 20:15:43 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:43 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 20:15:43 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:43 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 19
+[18-Feb-2020 20:15:43 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:43 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:19
+[18-Feb-2020 20:15:43 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 21
+[18-Feb-2020 20:15:43 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:47 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 14
+[18-Feb-2020 20:15:47 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:47 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:47 UTC] PHP Notice:  Undefined offset: 3 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 17
+[18-Feb-2020 20:15:47 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:47 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:47 UTC] PHP Warning:  file(/etc/resolv.conf): failed to open stream: No such file or directory in C:\inetpub\wwwroot\MRS\comunicacao.php on line 19
+[18-Feb-2020 20:15:47 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:47 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:47 UTC] PHP   2. file() C:\inetpub\wwwroot\MRS\comunicacao.php:19
+[18-Feb-2020 20:15:47 UTC] PHP Notice:  Uninitialized string offset: 1 in C:\inetpub\wwwroot\MRS\comunicacao.php on line 21
+[18-Feb-2020 20:15:47 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:47 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\comunicacao.php:0
+[18-Feb-2020 20:15:51 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\log_execucao.php on line 6
+[18-Feb-2020 20:15:51 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:51 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\log_execucao.php:0
+[18-Feb-2020 20:15:51 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\log_execucao.php:6
+[18-Feb-2020 20:15:56 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:15:56 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:56 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:15:56 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:15:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:15:58 UTC] PHP Stack trace:
+[18-Feb-2020 20:15:58 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:15:58 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:03 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:03 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:03 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:28 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:16:28 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:28 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:16:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:16:58 UTC] PHP Stack trace:
+[18-Feb-2020 20:16:58 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:16:58 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:17:05 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:17:05 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:05 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:17:07 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:17:07 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:07 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:07 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:17:11 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:17:11 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:17:11 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:17:13 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\descpesagem.php on line 6
+[18-Feb-2020 20:17:13 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:13 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:17:13 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\descpesagem.php:6
+[18-Feb-2020 20:17:13 UTC] PHP Notice:  Undefined variable: Ordem in C:\inetpub\wwwroot\MRS\descpesagem.php on line 30
+[18-Feb-2020 20:17:13 UTC] PHP Stack trace:
+[18-Feb-2020 20:17:13 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:18:31 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\descpesagem.php on line 6
+[18-Feb-2020 20:18:31 UTC] PHP Stack trace:
+[18-Feb-2020 20:18:31 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:18:31 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\descpesagem.php:6
+[18-Feb-2020 20:18:31 UTC] PHP Notice:  Undefined variable: Ordem in C:\inetpub\wwwroot\MRS\descpesagem.php on line 30
+[18-Feb-2020 20:18:31 UTC] PHP Stack trace:
+[18-Feb-2020 20:18:31 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:19:38 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\descpesagem.php on line 6
+[18-Feb-2020 20:19:38 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:19:38 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\descpesagem.php:6
+[18-Feb-2020 20:19:38 UTC] PHP Notice:  Undefined variable: Ordem in C:\inetpub\wwwroot\MRS\descpesagem.php on line 30
+[18-Feb-2020 20:19:38 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\pesagens.php on line 6
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\pesagens.php:6
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  Undefined offset: 2 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:19:45 UTC] PHP Notice:  Undefined offset: 1 in C:\inetpub\wwwroot\MRS\funcoes.php on line 25
+[18-Feb-2020 20:19:45 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\pesagens.php:0
+[18-Feb-2020 20:19:45 UTC] PHP   2. formata_data_exibicao() C:\inetpub\wwwroot\MRS\pesagens.php:202
+[18-Feb-2020 20:19:48 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\descpesagem.php on line 6
+[18-Feb-2020 20:19:48 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[18-Feb-2020 20:19:48 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\descpesagem.php:6
+[18-Feb-2020 20:19:48 UTC] PHP Notice:  Undefined variable: Ordem in C:\inetpub\wwwroot\MRS\descpesagem.php on line 30
+[18-Feb-2020 20:19:48 UTC] PHP Stack trace:
+[18-Feb-2020 20:19:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\descpesagem.php:0
+[11-Mar-2020 14:36:38 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[11-Mar-2020 14:42:21 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[11-Mar-2020 14:44:11 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[11-Mar-2020 14:55:34 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 14:55:34 UTC] PHP Stack trace:
+[11-Mar-2020 14:55:34 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 14:55:34 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 14:56:08 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 14:56:08 UTC] PHP Stack trace:
+[11-Mar-2020 14:56:08 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 14:56:08 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:02:28 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:02:28 UTC] PHP Stack trace:
+[11-Mar-2020 15:02:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:02:28 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:02:36 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:02:36 UTC] PHP Stack trace:
+[11-Mar-2020 15:02:36 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:02:36 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:02:56 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:02:56 UTC] PHP Stack trace:
+[11-Mar-2020 15:02:56 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:02:56 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:02:56 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 15:02:56 UTC] PHP Stack trace:
+[11-Mar-2020 15:02:56 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:02:56 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[11-Mar-2020 15:02:56 UTC] PHP Stack trace:
+[11-Mar-2020 15:02:56 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:04:17 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:04:17 UTC] PHP Stack trace:
+[11-Mar-2020 15:04:17 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:04:17 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:04:17 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 15:04:17 UTC] PHP Stack trace:
+[11-Mar-2020 15:04:17 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:04:17 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[11-Mar-2020 15:04:17 UTC] PHP Stack trace:
+[11-Mar-2020 15:04:17 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:05:48 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:05:48 UTC] PHP Stack trace:
+[11-Mar-2020 15:05:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:05:48 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:05:48 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 15:05:48 UTC] PHP Stack trace:
+[11-Mar-2020 15:05:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:05:48 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 15:05:48 UTC] PHP Stack trace:
+[11-Mar-2020 15:05:48 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:06:02 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:06:02 UTC] PHP Stack trace:
+[11-Mar-2020 15:06:02 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:06:02 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:06:02 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 15:06:02 UTC] PHP Stack trace:
+[11-Mar-2020 15:06:02 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:06:02 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 15:06:02 UTC] PHP Stack trace:
+[11-Mar-2020 15:06:02 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:06:06 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 15:06:06 UTC] PHP Stack trace:
+[11-Mar-2020 15:06:06 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:06:06 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 15:06:06 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 15:06:06 UTC] PHP Stack trace:
+[11-Mar-2020 15:06:06 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 15:06:06 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 15:06:06 UTC] PHP Stack trace:
+[11-Mar-2020 15:06:06 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 16:59:55 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 16:59:55 UTC] PHP Stack trace:
+[11-Mar-2020 16:59:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 16:59:55 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 16:59:55 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 16:59:55 UTC] PHP Stack trace:
+[11-Mar-2020 16:59:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 16:59:55 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 16:59:55 UTC] PHP Stack trace:
+[11-Mar-2020 16:59:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 16:59:59 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 16:59:59 UTC] PHP Stack trace:
+[11-Mar-2020 16:59:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 16:59:59 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 16:59:59 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 16:59:59 UTC] PHP Stack trace:
+[11-Mar-2020 16:59:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 16:59:59 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 16:59:59 UTC] PHP Stack trace:
+[11-Mar-2020 16:59:59 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:03 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:00:03 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:03 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:00:03 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:00:03 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:03 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:03 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:00:04 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:04 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:14 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:00:14 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:14 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:00:14 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:00:14 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:14 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:00:14 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:18 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:00:18 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:18 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:00:18 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:00:18 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:18 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:00:18 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:39 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:00:40 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:40 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:00:40 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:00:40 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:40 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:00:40 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:40 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:44 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:00:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:44 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:00:44 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:00:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:00:44 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:00:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:00:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:05 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:02:05 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:05 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:02:05 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:02:05 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:05 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:02:05 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:07 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:02:07 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:07 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:07 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:02:07 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:07 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:02:07 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:07 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:10 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:02:10 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:10 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:02:10 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:02:10 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:10 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:02:10 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:12 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\log_execucao.php on line 6
+[11-Mar-2020 17:02:12 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:12 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\log_execucao.php:0
+[11-Mar-2020 17:02:12 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\log_execucao.php:6
+[11-Mar-2020 17:02:14 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:02:14 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:14 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:02:14 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:02:14 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:02:14 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:02:14 UTC] PHP Stack trace:
+[11-Mar-2020 17:02:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:03:57 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:03:57 UTC] PHP Stack trace:
+[11-Mar-2020 17:03:57 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:03:57 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:03:58 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:03:58 UTC] PHP Stack trace:
+[11-Mar-2020 17:03:58 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:03:58 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:03:58 UTC] PHP Stack trace:
+[11-Mar-2020 17:03:58 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:00 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:04:00 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:00 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:00 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:04:00 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 197
+[11-Mar-2020 17:04:00 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:00 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:00 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 198
+[11-Mar-2020 17:04:00 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:00 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:04:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:04:42 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:04:42 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:42 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:04:42 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:04:42 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:42 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[11-Mar-2020 17:04:42 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:42 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:04:42 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:42 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:04:42 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:44 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:04:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:44 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:04:44 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:04:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:44 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[11-Mar-2020 17:04:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:44 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:04:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:44 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:04:44 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:44 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:04:45 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:45 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:04:45 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:04:45 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:45 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[11-Mar-2020 17:04:45 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:45 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:04:45 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:45 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:04:45 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:45 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:55 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:04:55 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:55 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:04:55 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:04:55 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:55 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[11-Mar-2020 17:04:55 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:55 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:04:55 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:04:55 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:04:55 UTC] PHP Stack trace:
+[11-Mar-2020 17:04:55 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:07:43 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:07:43 UTC] PHP Stack trace:
+[11-Mar-2020 17:07:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:07:43 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:07:43 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[11-Mar-2020 17:07:43 UTC] PHP Stack trace:
+[11-Mar-2020 17:07:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:07:43 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[11-Mar-2020 17:07:43 UTC] PHP Stack trace:
+[11-Mar-2020 17:07:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:07:43 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:07:43 UTC] PHP Stack trace:
+[11-Mar-2020 17:07:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:07:43 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:07:43 UTC] PHP Stack trace:
+[11-Mar-2020 17:07:43 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:11:25 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[11-Mar-2020 17:11:26 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:11:26 UTC] PHP Stack trace:
+[11-Mar-2020 17:11:26 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:11:26 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:11:26 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:11:26 UTC] PHP Stack trace:
+[11-Mar-2020 17:11:26 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:11:26 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:11:26 UTC] PHP Stack trace:
+[11-Mar-2020 17:11:26 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:12:28 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'PR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:12:28 UTC] PHP Stack trace:
+[11-Mar-2020 17:12:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:12:28 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:15:23 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[11-Mar-2020 17:15:23 UTC] PHP Stack trace:
+[11-Mar-2020 17:15:23 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:15:31 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[11-Mar-2020 17:15:31 UTC] PHP Stack trace:
+[11-Mar-2020 17:15:31 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:15:33 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'BR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:15:33 UTC] PHP Stack trace:
+[11-Mar-2020 17:15:33 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:15:33 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\usuarios.php:6
+[11-Mar-2020 17:16:41 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'BR' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[11-Mar-2020 17:16:41 UTC] PHP Stack trace:
+[11-Mar-2020 17:16:41 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[11-Mar-2020 17:16:41 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 02:48:12 UTC] PHP Notice:  Undefined index: usuarioNome in C:\inetpub\wwwroot\MRS\funcoes.php on line 42
+[12-Mar-2020 02:48:12 UTC] PHP Stack trace:
+[12-Mar-2020 02:48:12 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:48:12 UTC] PHP   2. include_once() C:\inetpub\wwwroot\MRS\usuarios.php:2
+[12-Mar-2020 02:48:12 UTC] PHP   3. verifica_sessao() C:\inetpub\wwwroot\MRS\funcoes.php:50
+[12-Mar-2020 02:48:38 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 02:48:38 UTC] PHP Stack trace:
+[12-Mar-2020 02:48:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:48:38 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 02:48:38 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 02:48:38 UTC] PHP Stack trace:
+[12-Mar-2020 02:48:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:48:38 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 02:48:38 UTC] PHP Stack trace:
+[12-Mar-2020 02:48:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:50:57 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 02:50:57 UTC] PHP Stack trace:
+[12-Mar-2020 02:50:57 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:50:57 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 02:50:57 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 02:50:57 UTC] PHP Stack trace:
+[12-Mar-2020 02:50:57 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:50:57 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 02:50:57 UTC] PHP Stack trace:
+[12-Mar-2020 02:50:57 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:51:50 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 02:51:50 UTC] PHP Stack trace:
+[12-Mar-2020 02:51:50 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:51:50 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 02:51:50 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 02:51:50 UTC] PHP Stack trace:
+[12-Mar-2020 02:51:50 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:51:50 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 02:51:50 UTC] PHP Stack trace:
+[12-Mar-2020 02:51:50 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:52:14 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 02:52:14 UTC] PHP Stack trace:
+[12-Mar-2020 02:52:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:52:14 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 02:52:14 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 02:52:14 UTC] PHP Stack trace:
+[12-Mar-2020 02:52:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:52:14 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 02:52:14 UTC] PHP Stack trace:
+[12-Mar-2020 02:52:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:52:38 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 02:52:38 UTC] PHP Stack trace:
+[12-Mar-2020 02:52:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:52:38 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 02:52:38 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 02:52:38 UTC] PHP Stack trace:
+[12-Mar-2020 02:52:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 02:52:38 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 02:52:38 UTC] PHP Stack trace:
+[12-Mar-2020 02:52:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:29 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:01:29 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:29 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:01:29 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 03:01:29 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:29 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 03:01:29 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:37 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:01:37 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:37 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:01:37 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:01:38 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:01:38 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:38 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:01:38 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:01:38 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:38 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:01:38 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:38 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 03:01:38 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:01:38 UTC] PHP Notice:  Undefined index: Id in C:\inetpub\wwwroot\MRS\usuarios.php on line 196
+[12-Mar-2020 03:01:38 UTC] PHP Stack trace:
+[12-Mar-2020 03:01:38 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:02:21 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:02:21 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:21 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:02:21 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:02:21 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:02:21 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:21 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:02:21 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:02:21 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:21 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:02:26 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:02:26 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:26 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:02:26 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:02:27 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:02:27 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:27 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:02:27 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:02:27 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:02:27 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:27 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:02:27 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:02:27 UTC] PHP Stack trace:
+[12-Mar-2020 03:02:27 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:03:11 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:03:11 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:03:11 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:03:12 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:03:12 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:12 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:03:12 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:03:12 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:03:12 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:12 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:03:12 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:03:12 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:12 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:03:24 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:03:24 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:24 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:03:24 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:03:25 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:03:25 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:25 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:03:25 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:03:25 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:03:25 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:25 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:03:25 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:03:25 UTC] PHP Stack trace:
+[12-Mar-2020 03:03:25 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:04:28 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:04:28 UTC] PHP Stack trace:
+[12-Mar-2020 03:04:28 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:04:28 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:04:29 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:04:29 UTC] PHP Stack trace:
+[12-Mar-2020 03:04:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:04:29 UTC] PHP   2. date_default_timezone_set() C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:04:29 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:04:29 UTC] PHP Stack trace:
+[12-Mar-2020 03:04:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:04:29 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:04:29 UTC] PHP Stack trace:
+[12-Mar-2020 03:04:29 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:04:56 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:04:56 UTC] PHP Stack trace:
+[12-Mar-2020 03:04:56 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:04:56 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:06:14 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:06:14 UTC] PHP Stack trace:
+[12-Mar-2020 03:06:14 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:06:14 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:06:17 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:06:17 UTC] PHP Stack trace:
+[12-Mar-2020 03:06:17 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:06:18 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:06:18 UTC] PHP Stack trace:
+[12-Mar-2020 03:06:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:07:05 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:07:05 UTC] PHP Stack trace:
+[12-Mar-2020 03:07:05 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:07:05 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:07:10 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:07:10 UTC] PHP Stack trace:
+[12-Mar-2020 03:07:10 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:07:11 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:07:11 UTC] PHP Stack trace:
+[12-Mar-2020 03:07:11 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:07:24 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\getUsuario.php on line 6
+[12-Mar-2020 03:07:24 UTC] PHP Stack trace:
+[12-Mar-2020 03:07:24 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\getUsuario.php:0
+[12-Mar-2020 03:07:24 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\getUsuario.php:6
+[12-Mar-2020 03:07:42 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'SP' is invalid in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 03:07:42 UTC] PHP Stack trace:
+[12-Mar-2020 03:07:42 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:07:42 UTC] PHP   2. date_default_timezone_set(*uninitialized*) C:\inetpub\wwwroot\MRS\usuarios.php:6
+[12-Mar-2020 03:08:19 UTC] PHP Notice:  Undefined index: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 12
+[12-Mar-2020 03:08:19 UTC] PHP Stack trace:
+[12-Mar-2020 03:08:19 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:08:25 UTC] PHP Notice:  Undefined index: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 13
+[12-Mar-2020 03:08:25 UTC] PHP Stack trace:
+[12-Mar-2020 03:08:25 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 03:08:45 UTC] PHP Parse error:  syntax error, unexpected ''america/sao_paulo'' (T_CONSTANT_ENCAPSED_STRING) in C:\inetpub\wwwroot\MRS\usuarios.php on line 6
+[12-Mar-2020 00:09:16 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 123
+[12-Mar-2020 00:09:16 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:09:16 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:09:17 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 132
+[12-Mar-2020 00:09:17 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:09:17 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:09:54 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 123
+[12-Mar-2020 00:09:54 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:09:54 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:09:55 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 132
+[12-Mar-2020 00:09:55 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:09:55 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:10:14 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 123
+[12-Mar-2020 00:10:14 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:10:14 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:10:20 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 132
+[12-Mar-2020 00:10:20 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:10:20 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:11:35 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 123
+[12-Mar-2020 00:11:35 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:11:35 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:11:35 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 132
+[12-Mar-2020 00:11:35 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:11:35 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:14:46 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 123
+[12-Mar-2020 00:14:46 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:14:46 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:14:47 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 132
+[12-Mar-2020 00:14:47 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:14:47 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:19:39 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 124
+[12-Mar-2020 00:19:39 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:19:39 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:19:39 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 133
+[12-Mar-2020 00:19:39 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:19:39 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:21:20 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 124
+[12-Mar-2020 00:21:20 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:21:20 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:21:20 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 133
+[12-Mar-2020 00:21:20 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:21:20 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:23:33 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 125
+[12-Mar-2020 00:23:33 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:23:33 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:23:33 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:23:33 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:23:33 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:24:46 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 127
+[12-Mar-2020 00:24:46 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:24:46 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:24:46 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 136
+[12-Mar-2020 00:24:46 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:24:46 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:31:14 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 129
+[12-Mar-2020 00:31:14 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:31:14 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:31:14 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 138
+[12-Mar-2020 00:31:14 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:31:14 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:37:37 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 129
+[12-Mar-2020 00:37:37 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:37:37 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:37:37 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 138
+[12-Mar-2020 00:37:37 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:37:37 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:38:52 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 129
+[12-Mar-2020 00:38:52 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:38:52 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:38:52 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 138
+[12-Mar-2020 00:38:52 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:38:52 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:39:24 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 129
+[12-Mar-2020 00:39:24 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:39:24 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:39:24 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 138
+[12-Mar-2020 00:39:24 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:39:24 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:43:03 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:43:03 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:43:03 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:43:03 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:43:03 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:43:03 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:43:21 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:43:21 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:43:21 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:43:21 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:43:21 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:43:21 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:43:41 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:43:41 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:43:41 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:43:41 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:43:41 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:43:41 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:44:32 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:44:32 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:44:32 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:44:32 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:44:32 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:44:32 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:45:37 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:45:37 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:45:37 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:45:37 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:45:37 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:45:37 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:46:01 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:46:01 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:46:01 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:46:01 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:46:01 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:46:01 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:46:23 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:46:23 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:46:23 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:46:23 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:46:23 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:46:23 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:46:58 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:46:58 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:46:58 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:46:58 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:46:58 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:46:58 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:47:30 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 134
+[12-Mar-2020 00:47:30 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:47:30 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:47:30 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 143
+[12-Mar-2020 00:47:30 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:47:30 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:52:46 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 146
+[12-Mar-2020 00:52:47 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:52:47 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:52:47 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 155
+[12-Mar-2020 00:52:47 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:52:47 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:52:59 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 146
+[12-Mar-2020 00:52:59 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:52:59 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:52:59 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 155
+[12-Mar-2020 00:52:59 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:52:59 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:57:25 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 146
+[12-Mar-2020 00:57:25 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:57:25 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:57:25 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 155
+[12-Mar-2020 00:57:25 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:57:25 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:58:19 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 146
+[12-Mar-2020 00:58:19 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:58:19 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 00:58:19 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 155
+[12-Mar-2020 00:58:19 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 00:58:19 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 11:49:17 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[12-Mar-2020 11:49:18 UTC] PHP Notice:  Undefined index: usuarioNome in C:\inetpub\wwwroot\MRS\funcoes.php on line 42
+[12-Mar-2020 11:49:18 UTC] PHP Stack trace:
+[12-Mar-2020 11:49:18 UTC] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 11:49:18 UTC] PHP   2. include_once() C:\inetpub\wwwroot\MRS\usuarios.php:2
+[12-Mar-2020 11:49:18 UTC] PHP   3. verifica_sessao() C:\inetpub\wwwroot\MRS\funcoes.php:50
+[12-Mar-2020 09:07:59 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 174
+[12-Mar-2020 09:07:59 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:07:59 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:09:20 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 174
+[12-Mar-2020 09:09:20 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:09:20 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:09:20 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 183
+[12-Mar-2020 09:09:20 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:09:20 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:09:40 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 174
+[12-Mar-2020 09:09:40 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:09:40 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:09:40 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 183
+[12-Mar-2020 09:09:40 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:09:40 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:13:49 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 174
+[12-Mar-2020 09:13:49 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:13:49 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:13:49 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 183
+[12-Mar-2020 09:13:49 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:13:49 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:20:42 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 186
+[12-Mar-2020 09:20:42 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:20:42 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:20:42 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 09:20:42 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:20:42 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:22:28 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 186
+[12-Mar-2020 09:22:28 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:22:28 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:22:28 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 09:22:28 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:22:28 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:33:12 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 186
+[12-Mar-2020 09:33:12 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:33:12 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:33:12 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 195
+[12-Mar-2020 09:33:12 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:33:12 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:44:52 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 190
+[12-Mar-2020 09:44:52 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:44:52 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:44:52 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[12-Mar-2020 09:44:52 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:44:52 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:45:54 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\inetpub\wwwroot\MRS\usuarioInsert.php:43
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\MRS\usuarioInsert.php on line 43
+[12-Mar-2020 09:50:24 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 190
+[12-Mar-2020 09:50:24 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:50:24 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:50:24 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[12-Mar-2020 09:50:24 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:50:24 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 12:50:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in C:\inetpub\wwwroot\MRS\usuarioInsert.php on line 61
+[12-Mar-2020 12:50:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in C:\inetpub\wwwroot\MRS\usuarioInsert.php on line 61
+[12-Mar-2020 09:51:13 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 190
+[12-Mar-2020 09:51:13 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:51:13 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:51:23 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[12-Mar-2020 09:51:23 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:51:23 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:52:03 america/sao_paulo] PHP Fatal error:  Uncaught Error: Class 'object' not found in C:\inetpub\wwwroot\MRS\usuarioInsert.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\MRS\usuarioInsert.php on line 40
+[12-Mar-2020 09:52:07 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 190
+[12-Mar-2020 09:52:07 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:52:07 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:52:46 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[12-Mar-2020 09:52:46 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:52:46 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:53:06 america/sao_paulo] PHP Notice:  Undefined variable: DataInicial in C:\inetpub\wwwroot\MRS\usuarios.php on line 190
+[12-Mar-2020 09:53:06 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:53:06 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 09:53:11 america/sao_paulo] PHP Notice:  Undefined variable: DataFinal in C:\inetpub\wwwroot\MRS\usuarios.php on line 199
+[12-Mar-2020 09:53:11 america/sao_paulo] PHP Stack trace:
+[12-Mar-2020 09:53:11 america/sao_paulo] PHP   1. {main}() C:\inetpub\wwwroot\MRS\usuarios.php:0
+[12-Mar-2020 15:25:58 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[12-Mar-2020 15:57:51 UTC] PHP Notice:  Undefined index: usuarioNome in C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php on line 42
+[12-Mar-2020 15:57:51 UTC] PHP Stack trace:
+[12-Mar-2020 15:57:51 UTC] PHP   1. {main}() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:0
+[12-Mar-2020 15:57:51 UTC] PHP   2. include_once() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:2
+[12-Mar-2020 15:57:51 UTC] PHP   3. verifica_sessao() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php:50
+[12-Mar-2020 16:05:18 UTC] PHP Notice:  Undefined index: usuarioNome in C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php on line 42
+[12-Mar-2020 16:05:18 UTC] PHP Stack trace:
+[12-Mar-2020 16:05:18 UTC] PHP   1. {main}() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:0
+[12-Mar-2020 16:05:18 UTC] PHP   2. include_once() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:2
+[12-Mar-2020 16:05:18 UTC] PHP   3. verifica_sessao() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php:50
+[12-Mar-2020 16:05:55 UTC] PHP Notice:  Undefined index: usuarioNome in C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php on line 42
+[12-Mar-2020 16:05:55 UTC] PHP Stack trace:
+[12-Mar-2020 16:05:55 UTC] PHP   1. {main}() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\administrativo.php:0
+[12-Mar-2020 16:05:55 UTC] PHP   2. include_once() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\administrativo.php:2
+[12-Mar-2020 16:05:55 UTC] PHP   3. verifica_sessao() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php:50
+[12-Mar-2020 16:06:02 UTC] PHP Notice:  Undefined index: usuarioNome in C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php on line 42
+[12-Mar-2020 16:06:02 UTC] PHP Stack trace:
+[12-Mar-2020 16:06:02 UTC] PHP   1. {main}() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:0
+[12-Mar-2020 16:06:02 UTC] PHP   2. include_once() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:2
+[12-Mar-2020 16:06:02 UTC] PHP   3. verifica_sessao() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php:50
+[12-Mar-2020 16:06:03 UTC] PHP Notice:  Undefined index: usuarioNome in C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php on line 42
+[12-Mar-2020 16:06:03 UTC] PHP Stack trace:
+[12-Mar-2020 16:06:03 UTC] PHP   1. {main}() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:0
+[12-Mar-2020 16:06:03 UTC] PHP   2. include_once() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\usuarios.php:2
+[12-Mar-2020 16:06:03 UTC] PHP   3. verifica_sessao() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php:50
+[12-Mar-2020 16:07:05 UTC] PHP Notice:  Undefined index: usuarioNome in C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php on line 42
+[12-Mar-2020 16:07:05 UTC] PHP Stack trace:
+[12-Mar-2020 16:07:05 UTC] PHP   1. {main}() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\administrativo.php:0
+[12-Mar-2020 16:07:05 UTC] PHP   2. include_once() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\administrativo.php:2
+[12-Mar-2020 16:07:05 UTC] PHP   3. verifica_sessao() C:\Dropbox\Documentos GVD\STA\GestaoMRS\Administrativo\funcoes.php:50

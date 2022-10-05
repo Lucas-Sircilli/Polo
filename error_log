@@ -1,0 +1,1298 @@
+[29-Jul-2022 10:05:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 48
+[29-Jul-2022 10:05:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 95
+[29-Jul-2022 10:05:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 141
+[29-Jul-2022 10:05:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 150
+[29-Jul-2022 10:06:04 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 48
+[29-Jul-2022 10:06:04 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 95
+[29-Jul-2022 10:06:04 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 141
+[29-Jul-2022 10:06:04 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 150
+[29-Jul-2022 15:41:42 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:42:42 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:43:42 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:52:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:53:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:54:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:55:57 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:56:07 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[29-Jul-2022 15:56:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[03-Aug-2022 15:43:16 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[03-Aug-2022 15:44:32 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[03-Aug-2022 15:51:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 09:19:05 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 09:31:07 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 09:32:22 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 09:35:54 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 09:43:19 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 10:06:09 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 33
+[04-Aug-2022 11:53:13 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 36
+[04-Aug-2022 14:15:42 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 36
+[04-Aug-2022 14:23:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 36
+[04-Aug-2022 14:31:34 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 36
+[04-Aug-2022 14:37:59 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 36
+[04-Aug-2022 15:29:41 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasQuery.php on line 14
+[05-Aug-2022 09:16:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasQuery.php on line 14
+[05-Aug-2022 09:51:01 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasQuery.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasQuery.php on line 14
+[05-Aug-2022 13:49:10 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 55
+[05-Aug-2022 13:49:39 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 55
+[05-Aug-2022 14:12:01 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 56
+[05-Aug-2022 14:18:31 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 56
+[05-Aug-2022 14:40:16 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 56
+[05-Aug-2022 14:44:54 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 56
+[05-Aug-2022 14:45:01 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 56
+[05-Aug-2022 14:46:28 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[08-Aug-2022 09:30:38 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 55
+[08-Aug-2022 09:38:31 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 55
+[08-Aug-2022 09:40:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 55
+[08-Aug-2022 09:44:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 55
+[08-Aug-2022 12:00:30 America/Fortaleza] PHP Fatal error:  Cannot use try without catch or finally in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 7
+[08-Aug-2022 13:28:10 America/Fortaleza] PHP Fatal error:  Cannot use try without catch or finally in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 7
+[08-Aug-2022 13:29:41 America/Fortaleza] PHP Fatal error:  Cannot use try without catch or finally in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 7
+[08-Aug-2022 13:29:48 America/Fortaleza] PHP Fatal error:  Cannot use try without catch or finally in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 7
+[08-Aug-2022 13:33:51 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 10
+[08-Aug-2022 13:35:28 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 13:37:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 13:38:22 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 13:40:35 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 13:45:25 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 13:45:43 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 13:55:11 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 12
+[08-Aug-2022 14:04:56 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 14:06:55 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 14:07:09 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 14:16:37 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 14:16:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 14:17:37 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[08-Aug-2022 14:23:11 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 12
+[08-Aug-2022 14:34:33 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Editar() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 11
+[09-Aug-2022 11:47:51 america/sao_paulo] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 302
+[09-Aug-2022 12:01:05 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function formata_data_exibica() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:372
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 372
+[09-Aug-2022 14:02:47 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 129
+[09-Aug-2022 14:31:17 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:40 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:47 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:57 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:31:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:19 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:22 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:33:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:23
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 23
+[09-Aug-2022 14:55:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 24
+[10-Aug-2022 09:59:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:170) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:02:08 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:02:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function open() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:03:12 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 172
+[10-Aug-2022 10:03:12 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:172
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 172
+[10-Aug-2022 10:07:06 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 172
+[10-Aug-2022 10:07:06 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:172
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 172
+[10-Aug-2022 10:09:02 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:09:02 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:09:58 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:09:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:37:08 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:37:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:38:44 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:38:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:50:00 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 10:50:00 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:07:40 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:07:40 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:08:15 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:08:15 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:08:44 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:08:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:171
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 171
+[10-Aug-2022 11:24:18 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:25:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:25:27 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:25:32 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:31:25 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:31:47 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:32:14 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:33:22 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:33:33 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:35:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 11:36:05 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresas.php on line 34
+[10-Aug-2022 13:57:47 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 49
+[10-Aug-2022 13:57:53 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:49
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 49
+[10-Aug-2022 14:20:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')' in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 54
+[10-Aug-2022 14:28:34 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 173
+[10-Aug-2022 14:28:34 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:173
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 173
+[10-Aug-2022 15:11:06 america/sao_paulo] PHP Warning:  Use of undefined constant window - assumed 'window' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 173
+[10-Aug-2022 15:11:06 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:173
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 173
+[11-Aug-2022 11:53:39 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:65
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 65
+[11-Aug-2022 17:01:42 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 40
+[11-Aug-2022 17:05:53 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 44
+[12-Aug-2022 11:11:14 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:90
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 90
+[12-Aug-2022 11:16:09 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:90
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 90
+[12-Aug-2022 11:19:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:90
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 90
+[12-Aug-2022 13:15:47 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:150
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 150
+[12-Aug-2022 14:22:36 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:119
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 119
+[12-Aug-2022 14:26:13 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:119
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 119
+[12-Aug-2022 14:28:13 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php:119
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasInsert.php on line 119
+[12-Aug-2022 15:18:28 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:18:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:18:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:18:57 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:18:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:19:04 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:19:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:19:07 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Aug-2022 15:20:11 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 48
+[15-Aug-2022 15:07:11 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:100
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 100
+[15-Aug-2022 15:09:37 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:89
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 89
+[15-Aug-2022 15:09:39 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:89
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 89
+[15-Aug-2022 15:11:26 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:89
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 89
+[15-Aug-2022 15:13:04 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:89
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 89
+[15-Aug-2022 15:14:15 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:89
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 89
+[15-Aug-2022 15:30:27 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 96
+[15-Aug-2022 15:30:51 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 96
+[15-Aug-2022 15:31:10 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 96
+[15-Aug-2022 15:31:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 96
+[15-Aug-2022 15:32:52 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 96
+[15-Aug-2022 15:35:51 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 96
+[15-Aug-2022 15:43:32 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 92
+[15-Aug-2022 15:45:22 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 92
+[15-Aug-2022 15:52:01 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 92
+[15-Aug-2022 15:52:15 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/vendedoresInsert.php on line 92
+[15-Aug-2022 16:00:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[18-Aug-2022 10:30:18 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php:239
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php on line 239
+[18-Aug-2022 10:37:36 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php:232
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php on line 232
+[18-Aug-2022 10:39:13 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php:232
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php on line 232
+[18-Aug-2022 10:43:12 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php:232
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/parceirosInsert.php on line 232
+[18-Aug-2022 13:45:38 america/sao_paulo] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 314
+[18-Aug-2022 13:45:38 america/sao_paulo] PHP Warning:  Illegal string offset 'razao_social' in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 314
+[18-Aug-2022 13:45:38 america/sao_paulo] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 314
+[18-Aug-2022 13:45:38 america/sao_paulo] PHP Warning:  Illegal string offset 'razao_social' in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 314
+[18-Aug-2022 13:45:38 america/sao_paulo] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 314
+[18-Aug-2022 13:45:38 america/sao_paulo] PHP Warning:  Illegal string offset 'razao_social' in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 314
+[18-Aug-2022 14:52:41 America/Fortaleza] PHP Fatal error:  Constant expression contains invalid operations in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 35
+[23-Aug-2022 13:54:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 28
+[23-Aug-2022 13:55:20 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 28
+[23-Aug-2022 13:56:01 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 28
+[23-Aug-2022 13:57:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[23-Aug-2022 13:58:00 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[23-Aug-2022 14:00:39 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[23-Aug-2022 14:03:00 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[23-Aug-2022 14:03:02 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[23-Aug-2022 14:10:18 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:33
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 33
+[24-Aug-2022 10:48:05 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php on line 31
+[24-Aug-2022 10:56:23 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php on line 26
+[24-Aug-2022 10:56:24 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php on line 26
+[24-Aug-2022 10:58:02 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:274
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 274
+[24-Aug-2022 10:59:21 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:274
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 274
+[24-Aug-2022 11:00:14 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:274
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 274
+[24-Aug-2022 11:00:15 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:274
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 274
+[24-Aug-2022 11:04:05 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:274
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 274
+[24-Aug-2022 11:04:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:271
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 271
+[24-Aug-2022 11:21:20 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:273
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 273
+[24-Aug-2022 11:21:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:273
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 273
+[25-Aug-2022 10:14:43 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':' in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaObra.php on line 21
+[25-Aug-2022 14:08:58 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php:609
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php on line 609
+[25-Aug-2022 14:09:17 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php:609
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php on line 609
+[25-Aug-2022 14:09:37 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php:609
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php on line 609
+[25-Aug-2022 14:11:34 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php:609
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php on line 609
+[25-Aug-2022 14:12:20 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php:609
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoesCRUD.php on line 609
+[25-Aug-2022 14:46:42 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function ' () in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 24
+[25-Aug-2022 14:47:31 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function ' () in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 24
+[25-Aug-2022 15:07:33 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:08:17 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:08:43 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:08:48 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:08:50 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:08:52 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:17:28 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:17:53 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:18:00 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:18:02 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:18:53 america/sao_paulo] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 10
+[25-Aug-2022 15:23:54 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function ' () in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 26
+[25-Aug-2022 15:26:14 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to undefined function ' () in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaVendedor.php on line 26
+[26-Aug-2022 09:59:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':' in /home2/gvdsol57/polo.gvdsolucoes.com.br/buscaObra.php on line 29
+[29-Aug-2022 09:25:07 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 48
+[29-Aug-2022 09:27:16 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/gvdsol57/polo.gvdsolucoes.com.br/valida.php on line 48
+[31-Aug-2022 14:39:00 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 55
+[31-Aug-2022 14:39:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 55
+[31-Aug-2022 14:40:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 54
+[31-Aug-2022 14:43:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 54
+[31-Aug-2022 14:52:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 54
+[31-Aug-2022 14:52:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 54
+[31-Aug-2022 14:57:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 54
+[31-Aug-2022 14:58:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 54
+[31-Aug-2022 15:22:03 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php on line 25
+[31-Aug-2022 15:25:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacaoInsert.php on line 25
+[05-Sep-2022 11:31:33 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:276
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 276
+[05-Sep-2022 11:32:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:276
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 276
+[05-Sep-2022 11:41:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:276
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 276
+[05-Sep-2022 11:44:20 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:276
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 276
+[05-Sep-2022 11:46:18 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:277
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 277
+[05-Sep-2022 11:46:25 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:277
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 277
+[05-Sep-2022 11:46:54 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:278
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 278
+[05-Sep-2022 11:50:01 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:278
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 278
+[05-Sep-2022 11:51:11 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:279
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 279
+[05-Sep-2022 11:52:52 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 11:55:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:299
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 299
+[05-Sep-2022 11:57:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:299
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 299
+[05-Sep-2022 11:58:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:287
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 287
+[05-Sep-2022 11:59:20 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:301
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 301
+[05-Sep-2022 11:59:47 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:302
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 302
+[05-Sep-2022 13:42:24 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:42:29 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:44:16 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:44:51 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:44:54 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:45:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:47:51 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:48:10 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 13:49:17 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:51:40 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:51:43 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:54:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:55:11 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 13:55:34 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 13:59:26 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:294
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 294
+[05-Sep-2022 14:02:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 413
+[05-Sep-2022 14:02:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 413
+[05-Sep-2022 14:02:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 413
+[05-Sep-2022 14:02:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 413
+[05-Sep-2022 14:03:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 413
+[05-Sep-2022 14:03:48 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:295
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 295
+[05-Sep-2022 14:05:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 413
+[05-Sep-2022 14:05:37 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:295
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 295
+[05-Sep-2022 14:06:55 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:295
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 295
+[05-Sep-2022 14:10:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:295
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 295
+[05-Sep-2022 14:38:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:38:47 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:38:50 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:39:38 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:39:52 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:40:48 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:46:30 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:46:33 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:48:35 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:49:17 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 14:50:26 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 15:06:16 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:300
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 300
+[05-Sep-2022 15:11:45 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:292
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 292
+[05-Sep-2022 15:13:52 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:14:03 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:15:04 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:15:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:16:04 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:17:18 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:17:57 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:293
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 293
+[05-Sep-2022 15:18:40 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:295
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 295
+[05-Sep-2022 15:21:44 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:298
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 298
+[05-Sep-2022 15:22:26 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:298
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 298
+[05-Sep-2022 15:43:05 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:277
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 277
+[05-Sep-2022 15:44:27 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:277
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 277
+[05-Sep-2022 15:47:17 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:277
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 277
+[05-Sep-2022 15:47:19 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:277
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 277
+[06-Sep-2022 09:30:39 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 36
+[06-Sep-2022 09:35:08 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/promocoes.php on line 36
+[06-Sep-2022 13:32:50 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:33:51 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:34:51 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:34:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:35:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:36:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:37:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:38:07 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:39:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:40:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:40:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:41:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:43:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:44:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:45:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:46:03 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:46:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:47:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:48:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:49:50 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:50:51 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:51:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:52:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:53:46 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:54:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:55:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:55:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:56:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:57:04 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:58:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 13:59:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:00:07 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:01:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:02:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:03:10 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:03:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:04:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:05:39 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:22:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:23:16 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:24:17 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:25:18 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:26:04 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:27:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:28:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:28:37 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:29:38 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:30:39 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:31:40 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:32:40 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:33:41 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:34:42 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:35:43 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:36:44 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:37:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:38:46 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:39:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:40:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:41:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:42:50 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:43:51 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:44:52 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:45:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:46:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:47:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:48:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:49:57 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:50:58 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:51:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:53:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:54:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:55:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:56:03 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:57:04 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:58:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:59:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:59:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 14:59:46 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php on line 19
+[06-Sep-2022 15:00:02 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php on line 19
+[06-Sep-2022 15:00:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:00:27 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php on line 19
+[06-Sep-2022 15:01:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:02:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:03:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:03:46 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:04:10 america/sao_paulo] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home2/gvdsol57/polo.gvdsolucoes.com.br/AlterarSenha.php on line 23
+[06-Sep-2022 15:04:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:05:19 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:06:19 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:06:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:07:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:08:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:09:10 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:10:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:11:12 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:12:13 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:13:13 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:14:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:15:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:16:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:17:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:18:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:19:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:20:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:21:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:22:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:23:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:24:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:25:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:26:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:27:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:28:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:29:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:30:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:31:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:32:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:33:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:34:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:35:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:36:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:37:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:38:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:38:18 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:39:18 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:40:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:41:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:42:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:43:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:43:44 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:44:44 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:45:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:45:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:45:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:46:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:46:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:47:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:47:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:48:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:48:49 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:49:20 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:49:50 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:50:20 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:50:51 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:51:20 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:51:52 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:52:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:52:34 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:52:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:53:34 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:53:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:54:35 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:54:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:55:36 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:55:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:56:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:56:52 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:56:57 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:57:12 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:57:26 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:57:58 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:58:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:58:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 15:59:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:00:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:00:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:00:17 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:01:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:01:17 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:01:23 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:02:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:02:23 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:03:03 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:03:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:03:36 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:04:04 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:04:37 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:05:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:05:37 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:06:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:06:37 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:07:07 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:07:37 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:08:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:08:37 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:08:38 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:09:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:09:39 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:09:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:10:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:10:40 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:10:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:11:10 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:11:41 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:11:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:12:10 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:12:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:12:21 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:12:57 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:13:12 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:13:22 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:13:58 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:14:13 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:14:22 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:14:38 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:14:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:15:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:15:14 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:16:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:16:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:16:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:16:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:17:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:17:16 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:17:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:18:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:18:17 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:18:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:19:03 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:19:18 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:19:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:20:04 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:20:19 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:20:46 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:21:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:21:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:21:20 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[06-Sep-2022 16:21:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[08-Sep-2022 15:25:03 america/sao_paulo] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 12
+[08-Sep-2022 15:31:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasCRUD.php on line 1216
+[09-Sep-2022 11:51:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/gvdsol57/polo.gvdsolucoes.com.br/pesquisaVendedores.php on line 30
+[09-Sep-2022 11:52:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home2/gvdsol57/polo.gvdsolucoes.com.br/pesquisaVendedores.php on line 28
+[12-Sep-2022 11:07:49 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 35
+[12-Sep-2022 11:08:04 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 35
+[12-Sep-2022 11:08:55 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/pontuacoes.php on line 35
+[12-Sep-2022 13:31:23 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[12-Sep-2022 13:31:56 america/sao_paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/obrasInsert.php on line 34
+[12-Sep-2022 14:28:47 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:28:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:29:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:30:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:31:55 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:33:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:34:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:34:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:35:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:36:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:37:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:38:57 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:39:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:40:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:42:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:43:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:43:41 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:44:23 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:45:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:46:23 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:47:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:48:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:49:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:50:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:51:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:52:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:53:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:54:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:55:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:56:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:57:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:58:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 14:59:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:00:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:01:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:02:25 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:26 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:32 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:44 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:48 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:50 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:03:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:04:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:04:06 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:04:08 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:05:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:06:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:07:10 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:07:15 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:07:50 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:08:51 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:09:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:10:53 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:11:54 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:11:56 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:11:59 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:13:00 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:14:01 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:15:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:15:11 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:15:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:16:27 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:16:28 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:16:36 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:16:41 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[12-Sep-2022 15:16:43 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[15-Sep-2022 10:51:51 america/sao_paulo] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/gvdsol57/polo.gvdsolucoes.com.br/empresasDelete.php on line 30
+[19-Sep-2022 09:44:45 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 09:45:05 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 09:45:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 09:46:09 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 14:58:24 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 14:59:02 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 14:59:41 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
+[19-Sep-2022 14:59:46 america/sao_paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php:38) in /home2/gvdsol57/polo.gvdsolucoes.com.br/lgpdAtualiza.php on line 65
